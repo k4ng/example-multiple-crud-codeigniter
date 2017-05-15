@@ -14,3 +14,6 @@
 - Setting your connection database in ``YOUR_APPS_CI\application\config\database.php``.
 - Access your project via browser.
 
+## Created by
+[www.kang-cahya.com](http://www.kang-cahya.com/)
+
