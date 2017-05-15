@@ -2,6 +2,11 @@
 
 ![Image of Yaktocat](https://github.com/k4ng/example-multiple-crud-codeigniter/blob/master/screenshot-a.png)
 
+# Features
+- Multi add data
+- Multi edit data
+- Multi delete data
+
 ## Source version
 - PHP 5.6
 - Mysql 5.7
