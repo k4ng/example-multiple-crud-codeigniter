@@ -13,11 +13,14 @@
 - Codeigniter 3.1.4
 
 ## Quick instalation
-- Download this repo, next extract.
+- [Download this repo](https://github.com/k4ng/example-multiple-crud-codeigniter/archive/master.zip), next extract.
 - Copy folder config, controllers, models and views to ``YOUR_APPS_CI\aplication``.
 - Create new database, next import file ``murid.sql``.
 - Setting your connection database in ``YOUR_APPS_CI\application\config\database.php``.
 - Access your project via browser.
+
+## Article
+[http://www.kang-cahya.com/2017/05/membuat-multi-crud-dengan-codeigniter.html](http://www.kang-cahya.com/2017/05/membuat-multi-crud-dengan-codeigniter.html)
 
 ## Created by
 [www.kang-cahya.com](http://www.kang-cahya.com/)
