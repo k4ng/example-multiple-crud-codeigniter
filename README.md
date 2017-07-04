@@ -14,7 +14,7 @@
 
 ## Quick instalation
 - [Download this repo](https://github.com/k4ng/example-multiple-crud-codeigniter/archive/master.zip), next extract.
-- Copy folder config, controllers, models and views to ``YOUR_APPS_CI\aplication``.
+- Copy and replace folder config, controllers, models and views to ``YOUR_APPS_CI\aplication``.
 - Create new database, next import file ``murid.sql``.
 - Setting your connection database in ``YOUR_APPS_CI\application\config\database.php``.
 - Access your project via browser.
