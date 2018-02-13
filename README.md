@@ -1,6 +1,6 @@
 # Example Multiple CRUD Codeigniter
 
-![Image of Yaktocat](https://github.com/k4ng/example-multiple-crud-codeigniter/blob/master/screenshot-a.png)
+![Image loading...](https://github.com/k4ng/example-multiple-crud-codeigniter/blob/master/screenshot-a.png)
 
 # Features
 - Multi add data
@@ -15,7 +15,7 @@
 ## Quick instalation
 - [Download this repo](https://github.com/k4ng/example-multiple-crud-codeigniter/archive/master.zip), next extract.
 - Copy and replace folder config, controllers, models and views to ``YOUR_APPS_CI\aplication``.
-- Create new database, next import file ``murid.sql``.
+- Create new database, next import ``murid.sql`` file.
 - Setting your connection database in ``YOUR_APPS_CI\application\config\database.php``.
 - Access your project via browser.
 
